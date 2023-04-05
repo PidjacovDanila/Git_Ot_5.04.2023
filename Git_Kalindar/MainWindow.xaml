@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Image Source="/post-85684-1403338748.jpg" Stretch="Fill"/>
         <Calendar Margin="310,134,310,134"></Calendar>
         <Button Content="Button" HorizontalAlignment="Center" Margin="0,305,0,0" VerticalAlignment="Top" Height="50" Width="180"/>
     </Grid>
