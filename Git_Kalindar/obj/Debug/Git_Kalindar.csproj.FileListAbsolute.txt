@@ -1,0 +1,16 @@
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\bin\Debug\Git_Kalindar.exe.config
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\bin\Debug\Git_Kalindar.exe
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\bin\Debug\Git_Kalindar.pdb
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.csproj.AssemblyReference.cache
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.csproj.SuggestedBindingRedirects.cache
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\MainWindow.g.cs
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\App.g.cs
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar_MarkupCompile.cache
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar_MarkupCompile.lref
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\MainWindow.baml
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.g.resources
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.Properties.Resources.resources
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.csproj.GenerateResource.cache
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.csproj.CoreCompileInputs.cache
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.exe
+C:\Users\tank7\source\repos\Git_Kalindar\Git_Kalindar\obj\Debug\Git_Kalindar.pdb
